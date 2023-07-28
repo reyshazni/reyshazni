@@ -3,8 +3,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyshazni&show_icons=true&locale=en&layout=compact" alt="reyshazni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyshazni&show_icons=true&locale=en" alt="reyshazni" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyshazni&" alt="reyshazni" /></p>
 
 <h3 align="left">Connect with me:</h3>
