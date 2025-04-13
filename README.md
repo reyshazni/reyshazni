@@ -7,10 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyshazni&" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🌐 Connect with me
